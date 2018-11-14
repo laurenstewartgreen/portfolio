@@ -215,7 +215,7 @@ a:active {
                       ABOUT
 ====================================================*/
   #about {
-      background-image: url("portfolio/img/background.png") opacity: 0.3;
+      background-image: url("img/background2.jpg") opacity: 0.3;
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;
@@ -408,7 +408,7 @@ a:active {
 ======================================================*/
 
 #skills {
-    background-image: url("img/background.png") opacity: 0.3;
+    background-image: url("img/background2.jpg") opacity: 0.3;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
