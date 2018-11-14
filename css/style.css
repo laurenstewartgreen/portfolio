@@ -1,9 +1,6 @@
 
 /*GENERAL STYLE*/
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-
-
 
 body {
     font-family: 'Open Sans', serif;
@@ -408,7 +405,6 @@ a:active {
 ======================================================*/
 
 #skills {
-    background-image: url("img/background2.jpg") opacity: 0.3;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -416,6 +412,7 @@ a:active {
 
 .skill-cover {
     background-color: rgba(31, 31, 31, 0.68);
+    background-image: url("img/background2.jpg") opacity: 0.3;
 }
 
 .skill-cover h3{
